@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Bosithon! 👋
 
-<!--
-**ksmvvv/ksmvvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Beginner Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning programming.
+- 💻 Exploring Git and GitHub.
+- 🎯 My goal is to become a Software Developer.
+- 📚 Learning something new every day.
+
+### 🛠️ Currently Learning
+
+- Git
+- GitHub
+- Programming Basics
+
+### 📫 Connect with me
+
+- Telegram: [My Telegram](https://t.me/bos1thon)
+
+---
+
+⭐ Thanks for visiting my profile!
